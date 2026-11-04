@@ -1,0 +1,17 @@
+# Środowiska wirtualne
+venv/
+env/
+
+# Cache Pythona
+__pycache__/
+*.pyc
+
+# Konfiguracje IDE (Visual Studio / PyCharm)
+.vs/
+.idea/
+*.sln
+*.suo
+
+# Systemowe
+Thumbs.db
+.DS_Store
